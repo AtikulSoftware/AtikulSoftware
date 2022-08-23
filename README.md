@@ -10,6 +10,9 @@ Skills:  HTML / CSS / PHP / JavaScript / Java
 - 🔭 I’m currently working on BD TopCoder 
 - 🌱 I’m currently learning Java 
 
+npm install next-share --save
+yarn add next-share --save
+
 
 import {
   FacebookShareButton,
