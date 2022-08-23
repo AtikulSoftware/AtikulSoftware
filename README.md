@@ -9,24 +9,7 @@ Skills:  HTML / CSS / PHP / JavaScript / Java
 
 - 🔭 I’m currently working on BD TopCoder 
 - 🌱 I’m currently learning Java 
-
-npm install next-share --save
-yarn add next-share --save
-
-
-import {
-  FacebookShareButton,
-  FacebookIcon,
-} from 'next-share';
-
-<FacebookShareButton
-  url={'https://www.facebook.com/ShopnolokAtikul'}
-  quote={'next-share is a social share buttons for your next React apps.'}
-  hashtag={'#nextshare'}
->
-  <FacebookIcon size={32} round />
-</FacebookShareButton>
-
+- 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AtikulSoftware)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ShopnolokAtikul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shopnolokatikul/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/shopnolokatikul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/AwesomeDesigner)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.bdtopcoder.xyz/)  
 
