@@ -1,6 +1,6 @@
 ![I am Android App Developer](https://scontent.fdac116-1.fna.fbcdn.net/v/t39.30808-6/300399107_1544934109256110_6231732061648922629_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeG92xW9CCnK6MJptDVoSpC3jA1g9lnCpEqMDWD2WcKkSkml_q0Zj3RniV_8k3TfIevKtrcoV0vjImxe4krgx9VA&_nc_ohc=XAWw3yEtdowAX9rZD35&_nc_ht=scontent.fdac116-1.fna&oh=00_AT_BMvvscb9DNAifc-9BsQNXooPbgem_b4-qe89sxGlGzA&oe=63098710)
 
-### Hi there 👋, This is Atikul Islam
+### Hi there, This is Atikul Islam
 #### I am Android App Developer
 
 A full-time Android software Developer who makes a living on Fiverr for almost 2 years now. I create apps for websites, companies, schools, etc. I don't stop working until you are 100% satisfied! Good things come with hard work, so I will always strive to be the best version of myself and my work. It has been an exciting journey! I have been lucky enough to do what I love since 2019, and I am looking forward to the future to come!
