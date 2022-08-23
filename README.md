@@ -19,8 +19,6 @@ Skills:  HTML / CSS / PHP / JavaScript / Java
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AtikulSoftware&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AtikulSoftware)  
-
 ![GitHub metrics](https://metrics.lecoq.io/AtikulSoftware)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AtikulSoftware)  
