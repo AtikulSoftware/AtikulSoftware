@@ -1,7 +1,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=AtikulSoftware.AtikulSoftware&left_color=tomato&right_color=yellow&left_text=Profile%20Visitors"  />
 <a align="center" href="https://www.linkedin.com/in/atikulislambd/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Atikul+Islam" alt="Atikul Islam" /></a>
 <p> Expert in JS, JAVA, Dart, Flutter, Dart, Flutter || Android, iOS And Web Application Developer </p>
-<p> Rajshahi, Bangladesh </p>
+<p> Pabna, Bangladesh </p>
 
 <h3 align="left">About me: </h3>
 <img align="right" alt="programming" width="300" src="https://raw.githubusercontent.com/AtikulSoftware/AtikulFiles/main/coding%20anim.gif">
